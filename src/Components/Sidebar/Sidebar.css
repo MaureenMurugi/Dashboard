@@ -20,7 +20,7 @@
     height: 3rem;
 }
 .logo>span>span{
-    color: var(--pink);
+    color: var(--green);
 }
 /* menu */
 
@@ -53,7 +53,7 @@
     content: '';
     width: 8px;
     height: 100%;
-    background: var(--pink);
+    background: var(--green);
     margin-right: calc(1rem - 8px);
 }
 .menu .menuItem:last-child{

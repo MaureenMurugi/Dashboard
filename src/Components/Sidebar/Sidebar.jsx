@@ -17,7 +17,7 @@ const Sidebar = () => {
         <div className="logo">
             <img src={avatar} alt=''></img>
             <span>
-                Bus<span>Transit</span>Services
+                B<span>T</span>S
             </span>
         </div>
 
